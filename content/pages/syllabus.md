@@ -43,12 +43,57 @@ Grading Procedure
 
 Your grade will be based on the following weights:
 
-| ACTIVITY | PERCENT |
-| --- | --- |
-| Contributions to Class Discussion | 10% |
-| Written Homework (8 Assignments) | 15% |
-| Mid-term Examination | 30% |
-| Final Examination | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Contributions to Class Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Homework (8 Assignments)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Examination
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The _first four [assignments]({{< baseurl >}}/pages/assignments) are to be done individually_ and are intended to help you learn and practice the mechanics of the course material. By this, we mean the work you turn in must be your own, as opposed to copied from another. This does not mean you have to do individual assignments in isolation. We expect that you will need to consult each other in order to understand, or better understand, the material, and may need assistance. Seeking and giving such assistance is encouraged.
 
